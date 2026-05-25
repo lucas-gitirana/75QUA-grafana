@@ -1,8 +1,7 @@
 # Relatório de Qualidade de Software — Grafana
 
 **Data:** 23 de maio de 2026  
-**Elaborado por:** Análise estática do código-fonte  
-**Ferramenta:** Claude Code (claude-sonnet-4-6)
+**Elaborado por:** Análise estática do código-fonte
 
 ---
 
